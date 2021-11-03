@@ -3,16 +3,16 @@
 Inspired by [this comment]([I need an addon developer for a freelance paid job - Jobs / Paid Work - Blender Artists Community](https://blenderartists.org/t/i-need-an-addon-developer-for-a-freelance-paid-job/1331305)) from [blenderartists.org](blenderartists.org) I created an addon for importing assets into blender scene using image preview. For now only png images are supported.
 
 ```
-![alt text](https://github.com/banan039pl/BlenderAssetImporter/blob/main/1.png?raw=true)
+![alt text](https://github.com/banan039pl/BlenderAssetImporter/blob/main/images/1.png)
 ```
 
 ## Installation
 
 In order to get the addon working download latest release (don't unzip it). In blender go to `Edit -> Preferences -> Add-ons -> Install...` and point to downloaded zip file.
 
-![alt text](https://github.com/banan039pl/BlenderAssetImporter/blob/main/2.png?raw=true)
+![alt text](https://github.com/banan039pl/BlenderAssetImporter/blob/main/images/2.png)
 
-![alt text](https://github.com/banan039pl/BlenderAssetImporter/blob/main/3.png?raw=true)
+![alt text](https://github.com/banan039pl/BlenderAssetImporter/blob/main/images/3.png)
 
 ## Usage
 
