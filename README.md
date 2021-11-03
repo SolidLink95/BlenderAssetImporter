@@ -32,6 +32,7 @@ The `Documentation` button redirects to this github page.
 
 - after adding png file and asset file to respective folders there is no need to restart blender - just make sure `Filter` text field is empty and click `Filter`to reload
 - any files in `previews` folder with extension other that `png` will be skipped
+- all assets are added from `*.blend` to current scene, including meshes, armatures, objects, materials, particles, images etc. 
 
 I recommend making png files around 128x128 to 512x512 in  order to save loading time of images.
 
