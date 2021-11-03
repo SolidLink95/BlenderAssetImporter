@@ -24,6 +24,8 @@ The `Documentation` button redirects to this github page.
    - *.fbx
    - *.glb
    - *.dae
+   
+   ![alt text](https://github.com/banan039pl/BlenderAssetImporter/blob/main/images/5.png)
 3. Images names in `previews` directory must be the same as assets in `blends` directory. Example: When I copy `SkeletonWarrior.png` to `previews` then I need to copy`SkeletonWarrior.blend` to `blends`. If there is no asset named `SkeletonWarrior` in `blends` folder the preview will not appear in blender.
 4. The assets priority loading is just like written in 2. If there are `SkeletonWarrior.blend` and `SkeletonWarrior.fbx` in `blends` directory then `SkeletonWarrior.blend` will be loaded.
 5. Click `Import assets` to load all assets to current scene
