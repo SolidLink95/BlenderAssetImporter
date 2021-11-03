@@ -2,9 +2,9 @@
 
 Inspired by [this comment]([I need an addon developer for a freelance paid job - Jobs / Paid Work - Blender Artists Community](https://blenderartists.org/t/i-need-an-addon-developer-for-a-freelance-paid-job/1331305)) from [blenderartists.org](blenderartists.org) I created an addon for importing assets into blender scene using image preview. For now only png images are supported.
 
-```
 ![alt text](https://github.com/banan039pl/BlenderAssetImporter/blob/main/images/1.png)
-```
+
+![alt text](https://github.com/banan039pl/BlenderAssetImporter/blob/main/images/4.png)
 
 ## Installation
 
