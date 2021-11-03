@@ -14,6 +14,8 @@ In order to get the addon working download latest release (don't unzip it). In b
 
 ![alt text](https://github.com/banan039pl/BlenderAssetImporter/blob/main/images/3.png)
 
+The `Documentation` button redirects to this github page.
+
 ## Usage
 
 1. Create a directory with all png files with previews of the assets, lets name the folder `previews`
