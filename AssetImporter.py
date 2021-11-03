@@ -17,7 +17,7 @@ bl_info = {
 	"blender": (2, 80, 0),
 	"category": "Import",
 	"location": "View layer properties > Import assets",
-	"wiki_url": "github_link",
+	"wiki_url": "https://github.com/banan039pl/BlenderAssetImporter",
 	"description": "Importer for blender assets, supported formats: *.blend, *.fbx, *.glb, *.dae. Check Readme file on github for more information"
 }
 
