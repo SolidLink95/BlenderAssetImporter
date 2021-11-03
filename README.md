@@ -8,7 +8,7 @@ Inspired by [this comment]([I need an addon developer for a freelance paid job -
 
 ## Installation
 
-In order to get the addon working download latest release (don't unzip it). In blender go to `Edit -> Preferences -> Add-ons -> Install...` and point to downloaded zip file.
+In order to get the addon working download latest release (don't unzip it). In blender go to `Edit -> Preferences -> Add-ons -> Install...` and point to downloaded zip file. Enable it by ticking the box. From now Asset importer will be available in `Properties -> View layer`
 
 ![alt text](https://github.com/banan039pl/BlenderAssetImporter/blob/main/images/2.png)
 
